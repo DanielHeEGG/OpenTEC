@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name OpenTEC)(type Legacy)(uri ${KIPRJMOD}/OpenTEC.lib)(options "")(descr ""))
+)
