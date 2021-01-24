@@ -1,2 +1,5 @@
 # KiCAD
+
 fp-info-cache
+*.bck
+*.sch-bak
