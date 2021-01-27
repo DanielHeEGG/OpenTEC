@@ -8,7 +8,7 @@
 "D1","POWER_LED","LED_SMD:LED_0603_1608Metric"
 "D2","STATUS_LED","LED_SMD:LED_0603_1608Metric"
 "D3, D4","B5819W","Diode_SMD:D_SOD-123"
-"J1","USB_B_Micro","Connector_USB:USB_Micro-B_GCT_USB3076-30-A"
+"J1","USB_B_Micro","USB_Micro-B_Amphenol_10103594-0001LF_Horizontal"
 "Q1, Q2, Q3, Q4","FDS6574A","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 "R3, R10","100","Resistor_SMD:R_0402_1005Metric"
 "R11, R12","2.2K","Resistor_SMD:R_0402_1005Metric"
