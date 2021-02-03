@@ -1,5 +1,5 @@
 "Designator","Comment","Footprint"
-"C1, C2, C3, C14, C15, C16, C17","10uF","Capacitor_SMD:C_0805_2012Metric"
+"C1, C2, C3, C16, C17","10uF","Capacitor_SMD:C_0805_2012Metric"
 "C4","4.7uF","Capacitor_SMD:C_0805_2012Metric"
 "C5, C6, C7, C8, C10","100nF","Capacitor_SMD:C_0402_1005Metric"
 "C9, C18, C19","1uF","Capacitor_SMD:C_0805_2012Metric"
